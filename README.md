@@ -169,6 +169,7 @@ Used **SDV (Synthetic Data Vault)** with:
 
 * 🏢 Company: **TestAIng Solutions Pvt. Ltd.**
 * 📅 Duration: May 2025 – July 2025
+*    Role: ML intern
 * 👨‍🏫 Mentor: Associate ML Engineer
 * 💡 Focus: Synthetic Data & ML Evaluation
 
