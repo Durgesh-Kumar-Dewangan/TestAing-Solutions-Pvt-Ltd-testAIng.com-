@@ -3,7 +3,7 @@
 # 🚀 Machine Learning Lifecycle & Synthetic Data Generation Project
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x80.png?text=TestAIng+Logo" alt="[Company Logo](https://media.licdn.com/dms/image/v2/C510BAQExe5Cr2XEgmQ/company-logo_200_200/company-logo_200_200/0/1630565934368/testaing_logo?e=2147483647&v=beta&t=-s884AAxQGtTXIbjW_4voEwv8EJl6tf-XS5S-qRypSY)"/>
+  <img src="https://media.licdn.com/dms/image/v2/C510BAQExe5Cr2XEgmQ/company-logo_200_200/company-logo_200_200/0/1630565934368/testaing_logo?e=2147483647&v=beta&t=-s884AAxQGtTXIbjW_4voEwv8EJl6tf-XS5S-qRypSY"/>
 </p>
 
 <p align="center">
